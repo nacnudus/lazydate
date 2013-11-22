@@ -12,7 +12,7 @@ An R package for handling incomplete dates and times like years with months but 
 * Tally missing-date objects with ordinary date objects (e.g. tally weekdays-only with complete weeks)
 * Fit models taking irregular periodicity (e.g. Easter) into account.
 * Where there isn't enough information for exact arithmetic, return a vector c(min, max)
-* If using angles of circles to represent periods, why not use angles of elipses too, to represent nominal periods that change actual duration predictably through one cycle, e.g. daytime through the year.
+* If using angles of circles to represent periods, why not use angles of ellipses too, to represent nominal periods that change actual duration predictably through one cycle, e.g. daytime through the year.
 
 ## Clock Formulae
 
